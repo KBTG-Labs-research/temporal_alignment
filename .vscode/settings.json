@@ -1,0 +1,18 @@
+{
+    "sync-rsync.remote": "nlpvps-deep9:/home/knlp/dev/projects/temporal-entities/temporal_alignment",
+    "sync-rsync.onSaveIndividual": false,
+    "sync-rsync.exclude": [
+        ".git",
+        "__pycache__",
+        ".Trash-1000",
+        ".pytest_cache",
+        ".DS_Store",
+        ".ipynb_checkpoints",
+        ".vscode",
+        "data",
+        "models",
+        "resources",
+        "venv",
+    ],
+    "sync-rsync.delete": true,
+}

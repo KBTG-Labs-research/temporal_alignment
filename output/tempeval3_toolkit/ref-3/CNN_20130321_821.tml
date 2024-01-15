@@ -1,0 +1,12 @@
+<TLINK lid="l1" eventInstanceID="ei1" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l4" eventInstanceID="ei4" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l6" eventInstanceID="ei5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l101" timeID="t1" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l28" eventInstanceID="ei20" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l5" eventInstanceID="ei1" relType="AFTER" relatedToEventInstance="ei4"/>
+<TLINK lid="l7" eventInstanceID="ei4" relType="SIMULTANEOUS" relatedToEventInstance="ei5"/>
+<TLINK lid="l12" eventInstanceID="ei5" relType="BEFORE" relatedToEventInstance="ei8"/>
+<TLINK lid="l102" timeID="t1" relType="INCLUDES" relatedToEventInstance="ei8"/>
+<TLINK lid="l103" eventInstanceID="ei8" relType="AFTER" relatedToEventInstance="ei1000"/>
+<TLINK lid="l100" eventInstanceID="ei8" relType="INCLUDES" relatedToEventInstance="ei20"/>
+<TLINK lid="l104" eventInstanceID="ei1003" relType="AFTER" relatedToEventInstance="ei1002"/>

@@ -1,0 +1,6 @@
+<TLINK eventInstanceID="e5" lid="r0" relType="BEFORE" relatedToEventInstance="e6"/>
+<TLINK eventInstanceID="e4" lid="r1" relType="BEFORE" relatedToEventInstance="e5"/>
+<TLINK eventInstanceID="e3" lid="r2" relType="BEFORE" relatedToEventInstance="e4"/>
+<TLINK eventInstanceID="e3" lid="r3" relType="BEFORE" relatedToEventInstance="e7"/>
+<TLINK eventInstanceID="e2" lid="r5" relType="BEFORE" relatedToEventInstance="e3"/>
+<TLINK eventInstanceID="e1" lid="r4" relType="BEFORE" relatedToEventInstance="e2"/>

@@ -1,0 +1,11 @@
+
+
+Evaluate temporal_alignment/bug/ref-2/bug.tml temporal_alignment/bug/pred/bug.tml
+1.0 0.0
+0.00113797187805 , 1 , 4 , 1
+=== Temporal Awareness Score ===
+
+Temporal Score	F1	P	R
+		0.0	100.0	0.0	
+Overall Temporal Awareness Score (F1 score): 0.0
+

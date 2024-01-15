@@ -1,0 +1,106 @@
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/bbc_20130322_332.tml temporal_alignment/output/tempeval3_toolkit/pred-1/bbc_20130322_332.tml
+0.424242424242 0.417910447761
+0.0244300365448 , 66 , 106 , 91
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/CNN_20130321_821.tml temporal_alignment/output/tempeval3_toolkit/pred-1/CNN_20130321_821.tml
+0.454545454545 0.416666666667
+0.00350117683411 , 11 , 16 , 12
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/CNN_20130322_1003.tml temporal_alignment/output/tempeval3_toolkit/pred-1/CNN_20130322_1003.tml
+0.514851485149 0.485148514851
+0.0358681678772 , 101 , 170 , 139
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/nyt_20130322_strange_computer.tml temporal_alignment/output/tempeval3_toolkit/pred-1/nyt_20130322_strange_computer.tml
+0.2 0.192307692308
+0.00897693634033 , 25 , 54 , 36
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/CNN_20130322_314.tml temporal_alignment/output/tempeval3_toolkit/pred-1/CNN_20130322_314.tml
+0.547619047619 0.53488372093
+0.0145471096039 , 42 , 66 , 53
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/bbc_20130322_1150.tml temporal_alignment/output/tempeval3_toolkit/pred-1/bbc_20130322_1150.tml
+0.476923076923 0.476923076923
+0.0223290920258 , 65 , 110 , 83
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/WSJ_20130321_1145.tml temporal_alignment/output/tempeval3_toolkit/pred-1/WSJ_20130321_1145.tml
+0.166666666667 0.194444444444
+0.0132899284363 , 36 , 68 , 50
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/bbc_20130322_1353.tml temporal_alignment/output/tempeval3_toolkit/pred-1/bbc_20130322_1353.tml
+0.537037037037 0.518518518519
+0.0181601047516 , 54 , 88 , 74
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/nyt_20130321_china_pollution.tml temporal_alignment/output/tempeval3_toolkit/pred-1/nyt_20130321_china_pollution.tml
+0.254237288136 0.223880597015
+0.0250449180603 , 59 , 100 , 80
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/bbc_20130322_721.tml temporal_alignment/output/tempeval3_toolkit/pred-1/bbc_20130322_721.tml
+0.48275862069 0.466666666667
+0.00981187820435 , 29 , 56 , 34
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/WSJ_20130322_159.tml temporal_alignment/output/tempeval3_toolkit/pred-1/WSJ_20130322_159.tml
+0.457627118644 0.428571428571
+0.0207829475403 , 59 , 108 , 89
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/AP_20130322.tml temporal_alignment/output/tempeval3_toolkit/pred-1/AP_20130322.tml
+0.386363636364 0.386363636364
+0.015349149704 , 44 , 86 , 61
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/WSJ_20130318_731.tml temporal_alignment/output/tempeval3_toolkit/pred-1/WSJ_20130318_731.tml
+0.2 0.222222222222
+0.0131359100342 , 35 , 58 , 36
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/nyt_20130321_cyprus.tml temporal_alignment/output/tempeval3_toolkit/pred-1/nyt_20130321_cyprus.tml
+0.379746835443 0.379746835443
+0.0303230285645 , 79 , 130 , 120
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/nyt_20130321_women_senate.tml temporal_alignment/output/tempeval3_toolkit/pred-1/nyt_20130321_women_senate.tml
+0.333333333333 0.333333333333
+0.0267241001129 , 69 , 126 , 95
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/CNN_20130322_248.tml temporal_alignment/output/tempeval3_toolkit/pred-1/CNN_20130322_248.tml
+0.37037037037 0.357142857143
+0.00869297981262 , 27 , 54 , 38
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/CNN_20130322_1243.tml temporal_alignment/output/tempeval3_toolkit/pred-1/CNN_20130322_1243.tml
+0.571428571429 0.571428571429
+0.00435900688171 , 14 , 30 , 19
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/bbc_20130322_1600.tml temporal_alignment/output/tempeval3_toolkit/pred-1/bbc_20130322_1600.tml
+0.259259259259 0.259259259259
+0.00913095474243 , 27 , 52 , 44
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/nyt_20130321_sarkozy.tml temporal_alignment/output/tempeval3_toolkit/pred-1/nyt_20130321_sarkozy.tml
+0.625 0.625
+0.00734305381775 , 24 , 46 , 31
+
+
+ Evaluate temporal_alignment/output/tempeval3_toolkit/ref-1/WSJ_20130322_804.tml temporal_alignment/output/tempeval3_toolkit/pred-1/WSJ_20130322_804.tml
+0.52380952381 0.522727272727
+0.0156397819519 , 42 , 78 , 62
+=== Temporal Awareness Score ===
+Evaluated with ACL'11 score, not taking the reduced graph for relations.
+Temporal Score	F1	P	R
+		40.6634	41.1894	40.1507	
+Overall Temporal Awareness Score (F1 score): 40.6634
+
